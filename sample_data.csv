@@ -1,0 +1,101 @@
+transaction_id,product,category,price,quantity,payment_method
+T001,Laptop,Electronics,55000,1,Credit Card
+T002,Smartphone,Electronics,25000,2,UPI
+T003,Television,Electronics,45000,1,Debit Card
+T004,Refrigerator,Home Appliance,62000,1,UPI
+T005,Air Conditioner,Home Appliance,48000,2,Credit Card
+T006,Headphones,Electronics,2500,3,UPI
+T007,Washing Machine,Home Appliance,35000,1,Debit Card
+T008,Smartwatch,Electronics,8000,2,UPI
+T009,Microwave,Home Appliance,12000,1,Credit Card
+T010,Tablet,Electronics,22000,2,UPI
+T011,Laptop,Electronics,68000,1,Debit Card
+T012,Smartphone,Electronics,18000,1,UPI
+T013,Television,Electronics,52000,2,Credit Card
+T014,Refrigerator,Home Appliance,58000,1,Debit Card
+T015,Air Conditioner,Home Appliance,42000,1,UPI
+T016,Headphones,Electronics,3500,2,Credit Card
+T017,Washing Machine,Home Appliance,39000,1,UPI
+T018,Smartwatch,Electronics,9500,3,Debit Card
+T019,Microwave,Home Appliance,14500,1,UPI
+T020,Tablet,Electronics,28000,1,Credit Card
+T021,Laptop,Electronics,72000,1,UPI
+T022,Smartphone,Electronics,32000,2,Credit Card
+T023,Television,Electronics,38000,1,Debit Card
+T024,Refrigerator,Home Appliance,75000,1,UPI
+T025,Air Conditioner,Home Appliance,55000,2,Credit Card
+T026,Headphones,Electronics,1800,4,UPI
+T027,Washing Machine,Home Appliance,42000,1,Debit Card
+T028,Smartwatch,Electronics,7000,2,Credit Card
+T029,Microwave,Home Appliance,11000,2,UPI
+T030,Tablet,Electronics,24000,1,Debit Card
+T031,Laptop,Electronics,61000,2,Credit Card
+T032,Smartphone,Electronics,21000,1,UPI
+T033,Television,Electronics,47000,1,Credit Card
+T034,Refrigerator,Home Appliance,69000,1,Debit Card
+T035,Air Conditioner,Home Appliance,46000,1,UPI
+T036,Headphones,Electronics,4200,2,Credit Card
+T037,Washing Machine,Home Appliance,32000,1,UPI
+T038,Smartwatch,Electronics,11000,1,Debit Card
+T039,Microwave,Home Appliance,13500,2,Credit Card
+T040,Tablet,Electronics,26000,1,UPI
+T041,Laptop,Electronics,59000,1,Debit Card
+T042,Smartphone,Electronics,27500,2,UPI
+T043,Television,Electronics,41000,1,Credit Card
+T044,Refrigerator,Home Appliance,64000,2,UPI
+T045,Air Conditioner,Home Appliance,51000,1,Debit Card
+T046,Headphones,Electronics,2800,3,Credit Card
+T047,Washing Machine,Home Appliance,37000,1,UPI
+T048,Smartwatch,Electronics,8500,2,Debit Card
+T049,Microwave,Home Appliance,12500,1,Credit Card
+T050,Tablet,Electronics,23000,2,UPI
+T051,Laptop,Electronics,75000,1,Credit Card
+T052,Smartphone,Electronics,19500,1,Debit Card
+T053,Television,Electronics,49000,2,UPI
+T054,Refrigerator,Home Appliance,72000,1,Credit Card
+T055,Air Conditioner,Home Appliance,44000,2,Debit Card
+T056,Headphones,Electronics,3200,2,UPI
+T057,Washing Machine,Home Appliance,41000,1,Credit Card
+T058,Smartwatch,Electronics,10500,3,UPI
+T059,Microwave,Home Appliance,15500,1,Debit Card
+T060,Tablet,Electronics,29000,1,Credit Card
+T061,Laptop,Electronics,63000,1,UPI
+T062,Smartphone,Electronics,23000,2,Credit Card
+T063,Television,Electronics,56000,1,Debit Card
+T064,Refrigerator,Home Appliance,67000,1,UPI
+T065,Air Conditioner,Home Appliance,53000,1,Credit Card
+T066,Headphones,Electronics,2200,4,UPI
+T067,Washing Machine,Home Appliance,36000,2,Debit Card
+T068,Smartwatch,Electronics,9000,1,Credit Card
+T069,Microwave,Home Appliance,13000,2,UPI
+T070,Tablet,Electronics,25000,1,Debit Card
+T071,Laptop,Electronics,58000,2,Credit Card
+T072,Smartphone,Electronics,29500,1,UPI
+T073,Television,Electronics,43000,1,Credit Card
+T074,Refrigerator,Home Appliance,61000,2,Debit Card
+T075,Air Conditioner,Home Appliance,49000,1,UPI
+T076,Headphones,Electronics,3900,3,Credit Card
+T077,Washing Machine,Home Appliance,45000,1,UPI
+T078,Smartwatch,Electronics,7800,2,Debit Card
+T079,Microwave,Home Appliance,11800,1,Credit Card
+T080,Tablet,Electronics,27000,2,UPI
+T081,Laptop,Electronics,70000,1,Debit Card
+T082,Smartphone,Electronics,26000,2,Credit Card
+T083,Television,Electronics,51000,1,UPI
+T084,Refrigerator,Home Appliance,68000,1,Credit Card
+T085,Air Conditioner,Home Appliance,47000,2,Debit Card
+T086,Headphones,Electronics,3000,2,UPI
+T087,Washing Machine,Home Appliance,38000,1,Credit Card
+T088,Smartwatch,Electronics,12000,1,UPI
+T089,Microwave,Home Appliance,14000,2,Debit Card
+T090,Tablet,Electronics,21500,1,Credit Card
+T091,Laptop,Electronics,65000,1,UPI
+T092,Smartphone,Electronics,34000,2,Debit Card
+T093,Television,Electronics,46000,1,Credit Card
+T094,Refrigerator,Home Appliance,59000,1,UPI
+T095,Air Conditioner,Home Appliance,52000,1,Debit Card
+T096,Headphones,Electronics,2700,3,Credit Card
+T097,Washing Machine,Home Appliance,40000,1,UPI
+T098,Smartwatch,Electronics,9800,2,Credit Card
+T099,Microwave,Home Appliance,12800,1,Debit Card
+T100,Tablet,Electronics,31000,2,UPI
